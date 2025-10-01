@@ -1,4 +1,5 @@
-title: Home
+---
+title: yuweiss smart home
 ---
 
 <img src="random_logo_192.png" alt="Integration Logo" width="96" height="96" style="display:block;margin-bottom:1em;" />
